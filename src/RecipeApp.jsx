@@ -1,6 +1,7 @@
+import { AppRouter } from "./router/AppRouter";
 
 export const RecipeApp = () => {
     return (
-        <div>RecipeApp</div>
+        <AppRouter />
     )
 }
