@@ -1,3 +1,3 @@
-export * from './RecipesPages';
-export * from './RecipePage';
-export * from './SearchPage';
+export * from './Recipes';
+export * from './Recipe';
+export * from './Search';

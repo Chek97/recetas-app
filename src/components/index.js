@@ -1,2 +1,4 @@
 export * from './RandomMeal';
-export * from './MealsList';
+export * from './MealList';
+export * from './Navbar';
+export * from './MealCategoryList';

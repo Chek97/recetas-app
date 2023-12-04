@@ -1,0 +1,25 @@
+.recipes {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.recipes__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.recipes__header>h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: #547410;
+}
+
+.recipes__header>p {
+    padding: 10px 20px;
+    font-size: 24px;
+    margin-top: 10px;
+    color: #547410;
+}

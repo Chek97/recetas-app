@@ -1,0 +1,15 @@
+.category-list {
+    padding: 20px;
+}
+
+.category-list__header {
+    font-size: 2rem;
+    text-align: center;
+    color: #547410;
+    margin-bottom: 10px;
+}
+
+.category-list__list {
+    list-style-type: none;
+    padding: 10px 0;
+}

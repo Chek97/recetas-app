@@ -1,0 +1,31 @@
+.random-recipe {
+    width: 100%;
+    background-color: #7c9f33;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.random-recipe>h2 {
+    border-bottom: 1px solid #547410;
+    padding: 10px;
+    text-align: center;
+    font-size: 2rem;
+    color: #FFF;
+}
+
+.random__loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+@media screen and (min-width: 572px) {
+    .random-recipe__card {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
